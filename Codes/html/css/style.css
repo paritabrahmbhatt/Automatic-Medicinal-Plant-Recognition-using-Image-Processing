@@ -1,0 +1,45 @@
+body {
+    background-image: url('leaves.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#box form {
+  margin: 10% 0 0 35%;
+
+}
+
+#box h3, #box h4 {
+  color: #fff;
+}
+#box h3 {
+  margin-left: 90px;
+}
+#box h4 {
+  margin-left: 200px;
+}
+
+input[type=submit] {
+       background-color: #62529c;
+       border: none;
+       color: #fff;
+       padding: 10px 30px;
+       text-transform: uppercase;
+       border-radius: 28px;
+       margin: 4px 2px;
+       margin-left: 170px;
+       cursor: pointer;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    background-color: #62529c;
+    color: #fff;
+    border-radius: 28px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    margin: 4px 2px;
+    margin-left: 165px;
+    cursor: pointer;
+}

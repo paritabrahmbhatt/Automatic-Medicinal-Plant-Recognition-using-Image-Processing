@@ -1,6 +1,6 @@
 # Automatic-Medicinal-Plant-Recognition-using-Image-Processing
 
-This system was developed using Python and OpenCV.
+This system was developed using Python and OpenCV. This project was developed for the course work of 2170001 and 2181108.
 
 ## Dependency
 1. OpenCV

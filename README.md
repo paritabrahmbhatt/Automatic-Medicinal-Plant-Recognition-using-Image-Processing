@@ -8,8 +8,8 @@ This system was developed using Python and OpenCV. This project was developed fo
 3. Pandas
 4. [Mahotas](https://stackoverflow.com/questions/42786181/how-to-add-package-mahotas-in-anaconda)
 5. Matplotlib
-6. CV2
-7. OS
+6. [OS](https://anaconda.org/jmcmurray/os)
+7. [Scikit Learn](https://anaconda.org/anaconda/scikit-learn)
 
 ## Steps
 

@@ -6,7 +6,7 @@ This system was developed using Python and OpenCV. This project was developed fo
 1. [OpenCV](https://www.geeksforgeeks.org/set-opencv-anaconda-environment/)
 2. NumPy
 3. Pandas
-4. [Mahotas]https://stackoverflow.com/questions/42786181/how-to-add-package-mahotas-in-anaconda)
+4. [Mahotas](https://stackoverflow.com/questions/42786181/how-to-add-package-mahotas-in-anaconda)
 5. Matplotlib
 6. CV2
 7. OS
